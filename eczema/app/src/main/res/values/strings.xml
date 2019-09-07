@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">EczCare</string>
+
+    <string name="eczema">eczema</string>
+
+    <string name="atopic">
+        <li>• Relieve the itch by using moisturizers</li> \n
+        <li>• A corticosteroid cream or ointment. Apply it as directed, after you moisturize. Overuse of this drug may cause side effects, including thinning skin.</li> \n
+        <li>• Creams containing drugs called calcineurin inhibitors — such as tacrolimus (Protopic) and pimecrolimus (Elidel)</li>
+    </string>
+
+    <string name="contact">
+        <li>• Treatment includes washing the area with a lot of water to get rid of any traces of the irritants like chemicals and common allergens that are still on the skin. You should avoid further exposure to the substance.</li> \n
+        <li>• Emollients or moisturizers help keep the skin moist, and also help skin repair itself. They protect the skin from becoming inflamed again. They are a key part of preventing and treating irritant contact dermatitis.</li> \n
+        <li>• Topical corticosteroid drugs are commonly used to treat contact dermatitis.</li> \n
+        <li>• Some creams like tacrolimus or pimecrolimus can be used to relieve itching.</li> \n
+        <li>• Wet dressings and soothing anti-itch (antipruritic) lotions may be recommended to reduce other symptoms.</li>
+    </string>
+
+    <string name="dyshidrotic">
+        <li>• Soaking hands and feet in cool water or applying compresses for 1 minutes to the affected area 2-4 times a day followed by a rich moisturizer.</li> \n
+        <li>• Topical steroids are used or phototherapy.</li> \n
+        <li>• Consistent moisturizing can help relieve itching or pain.</li>
+    </string>
+
+    <string name="hand">
+        <li>• Using hand cleansers and moisturizers that are free of irritating ingredients and fragrances.</li> \n
+        <li>• Petrolatum is often the preferred moisturizer for hand eczema as it has few ingredients and it doesn’t sting or irritate open areas.</li> \n
+        <li>• Some lifestyle modifications include avoiding or minimizing wet-work. Protect hands by using cotton gloves as liner under vinyl gloves.</li> \n
+        <li>• Use emollients frequently to help restore normal skin barrier function. A thin smear of a thick barrier cream should be applied to all affected areas before work and reapplied after washing and whenever the skin dries out.</li> \n
+        <li>• Topical Corticosteroids are helpful which should be used only as needed.</li>
+    </string>
+
+    <string name="neuro">
+        <li>• Anti-itch medicated creams can be used or calcineurin inhibitor (tacrolimus) ointment may help if the vulva is involved. </li> \n
+        <li>• Prescription antihistamines help relieve itching in many people with neurodermatitis. Some of these drugs may cause drowsiness and help alleviating scratching while you sleep.</li> \n
+        <li>• For stubborn itching topical Lidocaine 5 percent or Capsaicin 8 percent is used.</li> \n
+        <li>• Exposing the skin to particular types of light is sometimes helpful.</li>
+    </string>
+
+    <string name="nummular">
+        <li>• Wool and other irritants that may trigger your symptoms should be avoided. </li> \n
+        <li>• It is advised not to have excessive hot showers.</li> \n
+        <li>• Avoid exposure to environmental irritants such as household cleaners and chemicals.</li> \n
+        <li>• Use moist bandages to cover and protect the affected areas.</li> \n
+        <li>• Anti-histamines can be taken to relieve itching and discomfort.</li> \n
+        <li>• Applying medicated lotions or skin ointments such as corticosteroids.</li> \n
+        <li>• UV treatment can be taken for severe itching</li>
+    </string>
+
+    <string name="stasis">
+        <li>• Wear compression stockings. </li> \n
+        <li>• Keep your feet elevated above your heart, this should be done 15 minutes every 2 hours.</li> \n
+        <li>• Antihistamines help relieve itchy legs.</li> \n
+        <li>• Wear comfortable clothes and moisturize using fragrance-free moisturizer.</li> \n
+        <li>• It is advised not to stand still for too long. Walk around often</li>
+    </string>
+
+    <string name="take_photo">Take photo</string>
+</resources>
